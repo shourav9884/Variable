@@ -1,0 +1,4 @@
+D:\sourceCode\csharrp\Variable\Variable\bin\Debug\Variable.exe
+D:\sourceCode\csharrp\Variable\Variable\bin\Debug\Variable.pdb
+D:\sourceCode\csharrp\Variable\Variable\obj\x86\Debug\Variable.exe
+D:\sourceCode\csharrp\Variable\Variable\obj\x86\Debug\Variable.pdb
